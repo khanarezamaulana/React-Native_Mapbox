@@ -58,8 +58,10 @@
 
     1. Open your emulator
     2. Go to ```Settings``` on the right side of your ```Phone Emulator```, like this!.
-        ![step2](./image/3.png)(./image/4.png)
+        ![step2](./image/3.png)
+        ![step2](./image/4.png)
     3. Click **Advanced** tab, and choose the **OpenGL ES Renderer** switch to **SwiftShader**.
-        ![step3](./image/5.png)(./image/6.png)
+        ![step3](./image/5.png)
+        ![step3](./image/6.png)
     4. Restart required, just restart your emulator.
     5. ```Run React Native Android``` again and Finish!. #Thankyou:)
