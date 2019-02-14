@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import {View, StyleSheet} from 'react-native';
 import Mapbox from '@mapbox/react-native-mapbox-gl';
+
+// Mapbox Access Token, get in Mapbox Account!
 Mapbox.setAccessToken('pk.eyJ1Ijoia2hhbmFyZXphIiwiYSI6ImNqczQ4aGxrZjAyOGczeW1za2JyZ2pvbTAifQ.TTU6XqJQI9v-3GYk2rKiTw')
 
 class App extends Component{
@@ -19,6 +21,7 @@ class App extends Component{
   }
 }
 
+// to create style in Mapbox
 var desain = StyleSheet.create({
   peta: {flex: 1}
 })
